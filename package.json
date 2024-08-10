@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "tailwindcss": "^3.4.9"
+  },
+  "dependencies": {
+    "dropzone": "^6.0.0-beta.2",
+    "lodash": "^4.17.21",
+    "preline": "^2.4.1"
+  }
+}
